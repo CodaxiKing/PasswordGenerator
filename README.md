@@ -39,6 +39,7 @@ Para executar este projeto em seu ambiente de desenvolvimento, siga os passos ab
 Bash
 
 git clone https://github.com/CodaxiKing/PasswordGenerator
+
 2. Navegue até o diretório do projeto:
 
 Bash
